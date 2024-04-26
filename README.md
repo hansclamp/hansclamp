@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Thiago (HansClamp) 😎</h1>
+<h1 align="center">Hi 👋, I'm Thiago Ribeiro</h1>
 <h3 align="center">Um novato em programação ☕</h3>
 
 - 🔭 I’m currently working on **Kinlab Projects and Servs.**
